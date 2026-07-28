@@ -1,4 +1,5 @@
 # git-practice
-このリポジトリはGit動画講座用です．
-conflictで変更
-GitHub上で更新
+このリポジトリはGit動画講座用です． 
+conflictで変更  
+GitHub上で更新  
+うぇーい
