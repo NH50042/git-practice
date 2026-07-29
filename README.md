@@ -9,3 +9,4 @@ rebase conflict
 conflictで変更  
 GitHub上で更新  
 うぇーい
+rebase用
