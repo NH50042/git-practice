@@ -3,3 +3,4 @@
 conflictで変更
 GitHub上で更新
 rebaseブランチで更新
+main conflictだぜ
