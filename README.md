@@ -10,3 +10,5 @@ conflictで変更
 GitHub上で更新  
 うぇーい
 rebase用
+stash 2
+stash コンフリクト用
